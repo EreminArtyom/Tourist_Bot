@@ -1,4 +1,4 @@
-TOKEN = "7053222988:AAE8ctJLzKHf_E3NH6E21AmkvdUBz_IMnhE"
+TOKEN = "" #bot token
 STOKEN = "I hope your stupid code will be able just to stop"
 ADMIN_PASSWORD = "49737335"
 CardWork = "Карту гостя может получить только турист, причём бесплатно.\n Она будет действительна всё время после получения. \n" \
